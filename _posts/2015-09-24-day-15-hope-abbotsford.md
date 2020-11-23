@@ -5,7 +5,6 @@ date: 2015-09-24T03:07:45+00:00
 author: WIll
 layout: post
 guid: https://www.skeena.org/blog/?p=448
-permalink: /?p=448
 categories:
   - Uncategorized
 ---
